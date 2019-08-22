@@ -4,5 +4,4 @@ package org.demo
 def printTask(tasks){
    println "----${tasks}----"
 }
-
-printTask("maven")
+return this
